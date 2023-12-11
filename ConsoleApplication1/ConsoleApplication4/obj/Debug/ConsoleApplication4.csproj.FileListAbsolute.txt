@@ -1,0 +1,5 @@
+C:\Users\public.COPP\RiderProjects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\public.COPP\RiderProjects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\public.COPP\RiderProjects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\public.COPP\RiderProjects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
